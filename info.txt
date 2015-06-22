@@ -1,0 +1,6 @@
+- End file with .py!
+
+two lines:
+
+chmod u+x <filename>
+pythong <filename>
